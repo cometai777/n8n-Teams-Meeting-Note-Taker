@@ -12,7 +12,14 @@ Finally, the generated meeting notes are automatically sent to all meeting atten
 
 The workflow includes validation, error handling, and logging at each stage to prevent repeated processing, handle permission issues, and provide visibility into skipped or failed meetings.
 
+## Auto Accept Invitation from outlook calendar & Join Meeting
 <img width="1913" height="949" alt="image" src="https://github.com/user-attachments/assets/8b18f02b-19bd-4de9-a497-b17605eb7333" />
+
+## Auto Listen Meeting Invite Email & Join Meeting
 <img width="1917" height="939" alt="image" src="https://github.com/user-attachments/assets/5ffe6031-8ad2-4498-ac40-7bfb5ff584a7" />
+
+## Get Transcript & Send to Attendees
 <img width="1904" height="909" alt="image" src="https://github.com/user-attachments/assets/87b54200-2c00-4c12-b838-b974d83fe830" />
+
+## Update Recall Bot Status
 <img width="1924" height="918" alt="image" src="https://github.com/user-attachments/assets/0428707c-14ba-4fe8-814f-cab3a6b4bb7b" />
